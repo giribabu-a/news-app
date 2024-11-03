@@ -6,3 +6,4 @@
 
 <h3>About the Project</h3>
 The News App provides users with up-to-date news across different categories, including Business, Entertainment, General, Health, Science, Sports, and Technology. Users can click on categories in the navigation bar to filter news articles by interest. This project uses the News API to fetch data and leverages React's Context API for state management across components.
+
