@@ -33,8 +33,28 @@ To run this project locally, follow these steps.
   <li>API Key from <a href="https://newsapi.org/" target="_blank">News API</a></li>
 </ul>
 
-
-
+<h4>Installation</h4>
+<ol>
+  <li>
+    <b>Clone the repository:</b> <br />
+      git clone https://github.com/your-username/news-app.git
+  </li>
+  <li>
+    <b>Navigate to the project directory:</b> <br />
+      cd news-app
+  </li>
+  <li>
+    <b>Install dependencies:</b> <br />
+      npm install
+  </li>
+  <li>
+    <b>Set up your API key:</b>
+    <ul>
+      <li>Create a .env file in the root directory and add your News API key:</li>
+    </ul>
+      VITE_API_KEY = your_news_api_key_here
+  </li>
+</ol>
 
 
 
